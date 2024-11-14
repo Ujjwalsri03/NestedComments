@@ -33,3 +33,19 @@ This project implements a nested comment section using **HTML**, **CSS** (Tailwi
    ```bash
    git clone https://github.com/your-username/nested-comment-section.git
    cd nested-comment-section
+   
+## Open the Project
+
+1. **Open the project in your preferred code editor** (e.g., VS Code).
+
+2. **Run the Project**:  
+   Open `index.html` in your browser to view the project.
+
+## Usage
+
+- **Add Comments**: Type in the comment box and click **"Add Comment"** to add a new comment.
+- **Reply**: Click the **"Reply"** button below a comment to add a nested reply.
+- **Edit**: Click the **"Edit"** button to modify an existing comment or reply.
+- **Delete**: Click the **"Delete"** button to remove a comment or reply.
+- **Character Counter**: Track your character usage in real-time while typing.
+- **Collapse/Expand** (Optional): If implemented, long threads can be collapsed or expanded.
